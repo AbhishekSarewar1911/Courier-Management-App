@@ -26,10 +26,12 @@ With the advent of internet applying for Booking for Courier has become a hassle
 
 
 ## System design: 
- ![Alt Text]()	
+
+## Flow-Chart:
+ ![Alt Text](https://github.com/AbhishekSarewar1911/Courier-Management-App/blob/main/Flow%20chart.png)	
  
  
- 
+ ## ER-Diagram:
  
   ![Alt Text]()
 
